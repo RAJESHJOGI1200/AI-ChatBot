@@ -55,14 +55,22 @@ pip install -r requirements.txt
 ### 5️⃣ Run the FastAPI Server
 uvicorn main:app --reload
 
+---
+
 ## 🧪 Testing
 1. Run the API using uvicorn main:app --reload
 2. Test via Postman
 3. Connect with Dialogflow to simulate chatbot interactions
 
-## 🛠 Future Enhancements
-🔹 Add Payment Integration
-🔹 Deploy on Cloud (AWS/GCP)
-🔹 Build Frontend for User Interaction using React or any other frontend frameworks
+---
+
+## 🛠 Future Enhancements  
+
+🔹 **Add Payment Integration**  
+🔹 **Deploy on Cloud (AWS/GCP)**  
+🔹 **Build Frontend for User Interaction** using **React** or any other frontend frameworks  
+
+
+---
 
 #### 🙌 Contributions Welcome! Fork the repo, improve it, and submit a pull request. 🚀
